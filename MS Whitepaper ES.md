@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Libro Blanco de MetaSoccer
 > Bienvenido al Libro Blanco de MetaSoccer. Aquí podrás explorar desde los aspectos fundamentales del juego hasta información más detallada que te ayudará a convertirte en el mejor propietario de un club.
 
